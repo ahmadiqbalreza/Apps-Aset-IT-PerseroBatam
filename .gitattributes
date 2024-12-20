@@ -1,8 +1,1 @@
-# Konversi otomatis untuk semua file teks
 * text=auto
-
-# Paksa LF untuk file shell script
-*.sh text eol=lf
-
-# Paksa CRLF untuk file batch Windows
-*.bat text eol=crlf

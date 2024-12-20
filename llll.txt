@@ -1,0 +1,39 @@
+{
+  "workbench.iconTheme": "material-icon-theme",
+  "editor.minimap.enabled": false,
+  "explorer.openEditors.visible": 0,
+  "php.suggest.basic": false,
+  "editor.fontSize": 15,
+  "editor.formatOnType": true,
+  "editor.formatOnSave": true,
+  "workbench.colorTheme": "Default Dark+",
+  "extensions.autoUpdate": "onlySelectedExtensions",
+  "[dart]": {
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "editor.rulers": [80],
+    "editor.selectionHighlight": false,
+    "editor.suggest.snippetsPreventQuickSuggestions": false,
+    "editor.suggestSelection": "first",
+    "editor.tabCompletion": "onlySnippets",
+    "editor.wordBasedSuggestions": "off"
+  },
+  "dart.openDevTools": "flutter",
+  "bracketPairColorizer.depreciation-notice": false,
+  "security.allowedUNCHosts": [
+    "192.168.60.55"
+  ],
+  "security.workspace.trust.untrustedFiles": "open",
+  "files.maxMemoryForLargeFilesMB": 409600000,
+  "workbench.editor.empty.hint": "hidden",
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "[blade]": {
+    "editor.defaultFormatter": "shufo.vscode-blade-formatter"
+  },
+  "[php]": {
+    "editor.defaultFormatter": "bmewburn.vscode-intelephense-client"
+  },
+  "editor.formatOnPaste": true,
+  "editor.stickyScroll.enabled": false,
+  "blade.format.enable": true
+}
